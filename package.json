@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "team-project-filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://BohdanMus.github.io/Filmoteka",
+  "homepage": "https://NataliiaRud.github.io/team-project-filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka/"
+    "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BohdanMus/Filmoteka.git"
+    "url": "git+https://github.com/NataliiaRud/team-project-filmoteka"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
